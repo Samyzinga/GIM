@@ -10,6 +10,11 @@ GRAFICA IN MOVIMENTO, SUPSI, 2024
   https://samyzinga.github.io/GIM/Esercizio_1A/aperto_chiuso_2.html
 
   https://samyzinga.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html
+
+
+  https://samyzinga.github.io/GIM/Esercizio_1A/rotazione_2.html
+
+  https://samyzinga.github.io/GIM/Esercizio_1A/rotazione_3.html
   
 
  
