@@ -36,7 +36,7 @@ GRAFICA IN MOVIMENTO, SUPSI, 2024
 
   ### Esercizio 3A - Orologio
 
-  https://samyzinga.github.io/GIM/Esercizio_3A/index.html
+  https://samyzinga.github.io/GIM/Esercizio_3A/esercizio3A_1/index.html
   
 
  
