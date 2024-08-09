@@ -24,7 +24,7 @@ GRAFICA IN MOVIMENTO, SUPSI, 2024
 
   ### Esercizio 1B
 
-  https://samyzinga.github.io/GIM/Esercizio_1B/dittico.html
+  https://samyzinga.github.io/GIM/Esercizio_1B/indexA.html
   
 
  
